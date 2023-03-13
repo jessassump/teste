@@ -1,6 +1,6 @@
 # sistema de cadastro de jogos
 
-> Status do projeto: Em desenvo9lvimento
+> Status do projeto: Em desenvolvimento
 
 Para rodar esse projeto na sua máquina, por favor digite:
 
